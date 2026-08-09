@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [08 — Fine-Tuning / Eval Data Pipelines](../08-finetuning-eval-data-pipelines.md)  
-**Also references:** [05 — Monitoring](../05-model-monitoring-observability.md)
+**Parent system design:** [08 — Fine-Tuning / Eval Data Pipelines](./08-finetuning-eval-data-pipelines.md)  
+**Also references:** [05 — Monitoring](./05-model-monitoring-observability.md)
 
 ## Users & problem
 

@@ -1,7 +1,7 @@
 # Design: Continuous Eval Suites
 
 **Project:** `continuous-eval-suites`  
-**Parent system design:** `08-finetuning-eval-data-pipelines.md / 05`
+**Parent system design:** [08 — Fine-Tuning / Eval Data Pipelines](../08-finetuning-eval-data-pipelines.md) · [05 — Model Monitoring & Behavior Observability](../05-model-monitoring-observability.md)
 
 ## 1. What this POC demonstrates
 
