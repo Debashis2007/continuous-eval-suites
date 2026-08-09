@@ -1,5 +1,7 @@
 # Use Case: Continuous Eval Suites
 
+**YouTube walkthrough:** [Continuous Eval Suites — System Design #Shorts](https://youtu.be/37Odvhpq8G4)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -47,6 +49,9 @@ Eval authors → suite registry (immutable)
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Continuous Eval Suites — System Design #Shorts](https://youtu.be/37Odvhpq8G4)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
